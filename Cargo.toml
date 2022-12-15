@@ -8,3 +8,4 @@ edition = "2021"
 [dependencies]
 rayon = "1.6.1"
 substring = "1.4.5"
+flate2 = "1.0"
